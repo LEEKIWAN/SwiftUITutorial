@@ -7,18 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8308992729A710A3009D9C5C /* FontAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8308992629A710A3009D9C5C /* FontAnimationView.swift */; };
+		8308992929A88D37009D9C5C /* LayoutTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8308992829A88D37009D9C5C /* LayoutTutorial.swift */; };
 		8374187729A5D6A700A9BA4A /* SwiftUITutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374187629A5D6A700A9BA4A /* SwiftUITutorialApp.swift */; };
-		8374187929A5D6A700A9BA4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374187829A5D6A700A9BA4A /* ContentView.swift */; };
+		8374187929A5D6A700A9BA4A /* DetentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374187829A5D6A700A9BA4A /* DetentsView.swift */; };
 		8374187B29A5D6A800A9BA4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8374187A29A5D6A800A9BA4A /* Assets.xcassets */; };
 		8374187E29A5D6A800A9BA4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8374187D29A5D6A800A9BA4A /* Preview Assets.xcassets */; };
+		8374188529A5DDBE00A9BA4A /* ChartsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374188429A5DDBE00A9BA4A /* ChartsView.swift */; };
+		8374188729A5E5E200A9BA4A /* ShareLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374188629A5E5E200A9BA4A /* ShareLinkView.swift */; };
+		8374188929A5EBE500A9BA4A /* ImageRendererView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374188829A5EBE500A9BA4A /* ImageRendererView.swift */; };
+		8374188B29A5F27500A9BA4A /* ViewThatFitsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374188A29A5F27500A9BA4A /* ViewThatFitsView.swift */; };
+		8374188D29A5F86E00A9BA4A /* GaugeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374188C29A5F86E00A9BA4A /* GaugeView.swift */; };
+		8374188F29A5FA8800A9BA4A /* TapGestureWithLocationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374188E29A5FA8800A9BA4A /* TapGestureWithLocationView.swift */; };
+		8374189129A5FB9400A9BA4A /* ScrollViewEnable&KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189029A5FB9400A9BA4A /* ScrollViewEnable&KeyboardView.swift */; };
+		8374189329A60B9900A9BA4A /* MultipleDatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189229A60B9900A9BA4A /* MultipleDatePickerView.swift */; };
+		8374189529A6FBE500A9BA4A /* RedactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189429A6FBE500A9BA4A /* RedactView.swift */; };
+		8374189729A7046200A9BA4A /* ViewBuilderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189629A7046200A9BA4A /* ViewBuilderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8308992629A710A3009D9C5C /* FontAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontAnimationView.swift; sourceTree = "<group>"; };
+		8308992829A88D37009D9C5C /* LayoutTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutTutorial.swift; sourceTree = "<group>"; };
 		8374187329A5D6A700A9BA4A /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8374187629A5D6A700A9BA4A /* SwiftUITutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialApp.swift; sourceTree = "<group>"; };
-		8374187829A5D6A700A9BA4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8374187829A5D6A700A9BA4A /* DetentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetentsView.swift; sourceTree = "<group>"; };
 		8374187A29A5D6A800A9BA4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8374187D29A5D6A800A9BA4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8374188429A5DDBE00A9BA4A /* ChartsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsView.swift; sourceTree = "<group>"; };
+		8374188629A5E5E200A9BA4A /* ShareLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkView.swift; sourceTree = "<group>"; };
+		8374188829A5EBE500A9BA4A /* ImageRendererView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageRendererView.swift; sourceTree = "<group>"; };
+		8374188A29A5F27500A9BA4A /* ViewThatFitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsView.swift; sourceTree = "<group>"; };
+		8374188C29A5F86E00A9BA4A /* GaugeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GaugeView.swift; sourceTree = "<group>"; };
+		8374188E29A5FA8800A9BA4A /* TapGestureWithLocationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureWithLocationView.swift; sourceTree = "<group>"; };
+		8374189029A5FB9400A9BA4A /* ScrollViewEnable&KeyboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ScrollViewEnable&KeyboardView.swift"; sourceTree = "<group>"; };
+		8374189229A60B9900A9BA4A /* MultipleDatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleDatePickerView.swift; sourceTree = "<group>"; };
+		8374189429A6FBE500A9BA4A /* RedactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedactView.swift; sourceTree = "<group>"; };
+		8374189629A7046200A9BA4A /* ViewBuilderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBuilderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +76,19 @@
 			isa = PBXGroup;
 			children = (
 				8374187629A5D6A700A9BA4A /* SwiftUITutorialApp.swift */,
-				8374187829A5D6A700A9BA4A /* ContentView.swift */,
+				8374187829A5D6A700A9BA4A /* DetentsView.swift */,
+				8374188429A5DDBE00A9BA4A /* ChartsView.swift */,
+				8374188629A5E5E200A9BA4A /* ShareLinkView.swift */,
+				8374188829A5EBE500A9BA4A /* ImageRendererView.swift */,
+				8374188A29A5F27500A9BA4A /* ViewThatFitsView.swift */,
+				8374188C29A5F86E00A9BA4A /* GaugeView.swift */,
+				8374188E29A5FA8800A9BA4A /* TapGestureWithLocationView.swift */,
+				8374189029A5FB9400A9BA4A /* ScrollViewEnable&KeyboardView.swift */,
+				8374189229A60B9900A9BA4A /* MultipleDatePickerView.swift */,
+				8374189429A6FBE500A9BA4A /* RedactView.swift */,
+				8374189629A7046200A9BA4A /* ViewBuilderView.swift */,
+				8308992629A710A3009D9C5C /* FontAnimationView.swift */,
+				8308992829A88D37009D9C5C /* LayoutTutorial.swift */,
 				8374187A29A5D6A800A9BA4A /* Assets.xcassets */,
 				8374187C29A5D6A800A9BA4A /* Preview Content */,
 			);
@@ -137,8 +173,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8374187929A5D6A700A9BA4A /* ContentView.swift in Sources */,
+				8374188B29A5F27500A9BA4A /* ViewThatFitsView.swift in Sources */,
+				8374189729A7046200A9BA4A /* ViewBuilderView.swift in Sources */,
+				8374187929A5D6A700A9BA4A /* DetentsView.swift in Sources */,
+				8374189129A5FB9400A9BA4A /* ScrollViewEnable&KeyboardView.swift in Sources */,
+				8374189329A60B9900A9BA4A /* MultipleDatePickerView.swift in Sources */,
 				8374187729A5D6A700A9BA4A /* SwiftUITutorialApp.swift in Sources */,
+				8374189529A6FBE500A9BA4A /* RedactView.swift in Sources */,
+				8374188929A5EBE500A9BA4A /* ImageRendererView.swift in Sources */,
+				8308992729A710A3009D9C5C /* FontAnimationView.swift in Sources */,
+				8374188729A5E5E200A9BA4A /* ShareLinkView.swift in Sources */,
+				8374188529A5DDBE00A9BA4A /* ChartsView.swift in Sources */,
+				8308992929A88D37009D9C5C /* LayoutTutorial.swift in Sources */,
+				8374188F29A5FA8800A9BA4A /* TapGestureWithLocationView.swift in Sources */,
+				8374188D29A5F86E00A9BA4A /* GaugeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
