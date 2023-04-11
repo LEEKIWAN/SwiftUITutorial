@@ -9,6 +9,11 @@
 /* Begin PBXBuildFile section */
 		8308992729A710A3009D9C5C /* FontAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8308992629A710A3009D9C5C /* FontAnimationView.swift */; };
 		8308992929A88D37009D9C5C /* LayoutTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8308992829A88D37009D9C5C /* LayoutTutorial.swift */; };
+		8326C68029D12E0C00922AB4 /* PresentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8326C67F29D12E0C00922AB4 /* PresentView.swift */; };
+		833A404529D294AA0083A9F8 /* PresentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833A404429D294AA0083A9F8 /* PresentView2.swift */; };
+		833A404729D2C1920083A9F8 /* AsyncImageTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833A404629D2C1920083A9F8 /* AsyncImageTestView.swift */; };
+		833A404929D2CBBB0083A9F8 /* TableViewHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833A404829D2CBBB0083A9F8 /* TableViewHeaderView.swift */; };
+		833A406A29D3D8540083A9F8 /* SimpleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 833A406929D3D8540083A9F8 /* SimpleView.swift */; };
 		8374187729A5D6A700A9BA4A /* SwiftUITutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374187629A5D6A700A9BA4A /* SwiftUITutorialApp.swift */; };
 		8374187929A5D6A700A9BA4A /* DetentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374187829A5D6A700A9BA4A /* DetentsView.swift */; };
 		8374187B29A5D6A800A9BA4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8374187A29A5D6A800A9BA4A /* Assets.xcassets */; };
@@ -23,11 +28,18 @@
 		8374189329A60B9900A9BA4A /* MultipleDatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189229A60B9900A9BA4A /* MultipleDatePickerView.swift */; };
 		8374189529A6FBE500A9BA4A /* RedactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189429A6FBE500A9BA4A /* RedactView.swift */; };
 		8374189729A7046200A9BA4A /* ViewBuilderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8374189629A7046200A9BA4A /* ViewBuilderView.swift */; };
+		83B3F76729D51FDA00E9F79F /* FocusStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B3F76629D51FDA00E9F79F /* FocusStateView.swift */; };
+		83C9E68F29CD719B00FC0E99 /* TableViewInScrolllView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83C9E68E29CD719B00FC0E99 /* TableViewInScrolllView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8308992629A710A3009D9C5C /* FontAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontAnimationView.swift; sourceTree = "<group>"; };
 		8308992829A88D37009D9C5C /* LayoutTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutTutorial.swift; sourceTree = "<group>"; };
+		8326C67F29D12E0C00922AB4 /* PresentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentView.swift; sourceTree = "<group>"; };
+		833A404429D294AA0083A9F8 /* PresentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentView2.swift; sourceTree = "<group>"; };
+		833A404629D2C1920083A9F8 /* AsyncImageTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageTestView.swift; sourceTree = "<group>"; };
+		833A404829D2CBBB0083A9F8 /* TableViewHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewHeaderView.swift; sourceTree = "<group>"; };
+		833A406929D3D8540083A9F8 /* SimpleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleView.swift; sourceTree = "<group>"; };
 		8374187329A5D6A700A9BA4A /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8374187629A5D6A700A9BA4A /* SwiftUITutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialApp.swift; sourceTree = "<group>"; };
 		8374187829A5D6A700A9BA4A /* DetentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetentsView.swift; sourceTree = "<group>"; };
@@ -43,6 +55,8 @@
 		8374189229A60B9900A9BA4A /* MultipleDatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleDatePickerView.swift; sourceTree = "<group>"; };
 		8374189429A6FBE500A9BA4A /* RedactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedactView.swift; sourceTree = "<group>"; };
 		8374189629A7046200A9BA4A /* ViewBuilderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBuilderView.swift; sourceTree = "<group>"; };
+		83B3F76629D51FDA00E9F79F /* FocusStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateView.swift; sourceTree = "<group>"; };
+		83C9E68E29CD719B00FC0E99 /* TableViewInScrolllView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewInScrolllView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +103,13 @@
 				8374189629A7046200A9BA4A /* ViewBuilderView.swift */,
 				8308992629A710A3009D9C5C /* FontAnimationView.swift */,
 				8308992829A88D37009D9C5C /* LayoutTutorial.swift */,
+				83C9E68E29CD719B00FC0E99 /* TableViewInScrolllView.swift */,
+				8326C67F29D12E0C00922AB4 /* PresentView.swift */,
+				833A404429D294AA0083A9F8 /* PresentView2.swift */,
+				833A404629D2C1920083A9F8 /* AsyncImageTestView.swift */,
+				833A404829D2CBBB0083A9F8 /* TableViewHeaderView.swift */,
+				833A406929D3D8540083A9F8 /* SimpleView.swift */,
+				83B3F76629D51FDA00E9F79F /* FocusStateView.swift */,
 				8374187A29A5D6A800A9BA4A /* Assets.xcassets */,
 				8374187C29A5D6A800A9BA4A /* Preview Content */,
 			);
@@ -174,15 +195,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				8374188B29A5F27500A9BA4A /* ViewThatFitsView.swift in Sources */,
+				833A406A29D3D8540083A9F8 /* SimpleView.swift in Sources */,
+				83C9E68F29CD719B00FC0E99 /* TableViewInScrolllView.swift in Sources */,
+				833A404529D294AA0083A9F8 /* PresentView2.swift in Sources */,
 				8374189729A7046200A9BA4A /* ViewBuilderView.swift in Sources */,
 				8374187929A5D6A700A9BA4A /* DetentsView.swift in Sources */,
 				8374189129A5FB9400A9BA4A /* ScrollViewEnable&KeyboardView.swift in Sources */,
 				8374189329A60B9900A9BA4A /* MultipleDatePickerView.swift in Sources */,
 				8374187729A5D6A700A9BA4A /* SwiftUITutorialApp.swift in Sources */,
 				8374189529A6FBE500A9BA4A /* RedactView.swift in Sources */,
+				8326C68029D12E0C00922AB4 /* PresentView.swift in Sources */,
+				83B3F76729D51FDA00E9F79F /* FocusStateView.swift in Sources */,
 				8374188929A5EBE500A9BA4A /* ImageRendererView.swift in Sources */,
 				8308992729A710A3009D9C5C /* FontAnimationView.swift in Sources */,
 				8374188729A5E5E200A9BA4A /* ShareLinkView.swift in Sources */,
+				833A404729D2C1920083A9F8 /* AsyncImageTestView.swift in Sources */,
+				833A404929D2CBBB0083A9F8 /* TableViewHeaderView.swift in Sources */,
 				8374188529A5DDBE00A9BA4A /* ChartsView.swift in Sources */,
 				8308992929A88D37009D9C5C /* LayoutTutorial.swift in Sources */,
 				8374188F29A5FA8800A9BA4A /* TapGestureWithLocationView.swift in Sources */,
@@ -323,6 +351,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -352,6 +381,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

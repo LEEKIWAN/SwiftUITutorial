@@ -46,10 +46,10 @@ struct ChartsView: View {
             AreaMark(x: .value("Day", item.day),
                      y: .value("Downloads", item.downloads))
             .foregroundStyle(.linearGradient(colors: [.red, .clear], startPoint: .top, endPoint: .bottom))
-            .interpolationMethod(.cardinal)
+            .interpolationMethod(.catmullRom)
             
-            RuleMark(y: .value("Mid", 250))
-                .foregroundStyle(.green)
+//            RuleMark(y: .value("Mid", 250))
+//                .foregroundStyle(.green)
             
         }
 //        .chartForegroundStyleScale(domain: sampleDownloads.compactMap({ downlod in
